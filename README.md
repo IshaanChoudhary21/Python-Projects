@@ -1,2 +1,2 @@
-# EmailValidator
-This python program validate the email we enter 
+# Some python projects for beginer
+
